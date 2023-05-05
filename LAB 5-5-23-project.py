@@ -1,0 +1,3 @@
+projecy= 'Our project you be a game of tic tac toe, we picked that game to make into a code because our team though it would be the easiest one to do, the uniqueness of this code allows it user to play tic tac toe, without writing it down on finding a website to play tic tac toe on. how we did it we used a combiation of def, class and import commands to create a new tab where the game would be played'
+
+print(projecy)
